@@ -15,6 +15,6 @@ public class MypageActivity extends AppCompatActivity {
     }
 
     private void ints(){
-        
+        String done = "다했어요";
     }
 }
