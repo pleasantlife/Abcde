@@ -13,4 +13,8 @@ public class MypageActivity extends AppCompatActivity {
         int a = 0;
         int b = 15;
     }
+
+    private void ints(){
+        String done = "다했어요";
+    }
 }
